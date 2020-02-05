@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.ElturkoPairMe" name=" [COLOR white]El[/COLOR][COLOR red]Turko[/COLOR] [COLOR gold]Pair Me[/COLOR]" version="1.0.0" provider-name="[COLOR red]El[COLOR white]Turko[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="PairMe.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">[COLOR red]El[COLOR white]Turko[/COLOR] [COLOR lime]PairMe ist ein kleines Program Tool zum Pairen[/COLOR]</summary>
+    <description lang="en">[COLOR red]El[COLOR white]Turko[/COLOR] [COLOR lime]PairMe damit koennt ihr die Hoster , OPENLOAD , THE VIDEO ME , VID UP ME , VSHARE , FLASH X , Pairen[/COLOR]</description>
+    <disclaimer lang="en">-</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+  </extension>
+</addon>

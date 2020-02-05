@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.Sport365"
+  name="[COLOR darkorange]Sport 365[/COLOR] [COLOR white]Webseite[/COLOR]"
+  version="1.0" 
+  provider-name="[COLOR red]El[/COLOR][COLOR white]Turko[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.script" library="365.py">
+    <provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">[COLOR orange]Sport 365 live[/COLOR]</summary>
+    <description lang="en">[COLOR orange]Sport 365 live von der Webseite gucken[/COLOR]</description>
+	<disclaimer>[COLOR orange]Sport 365 live[/COLOR]</disclaimer>
+  </extension>
+</addon>

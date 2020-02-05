@@ -1,0 +1,5 @@
+ADON NAME : HSK ARCHIVE INSTALLER
+ADDON ID : service.hsk.archive.installer
+ADDON VERSION : 1.0.8
+PYTHON MIN VERSION : 2.7.13
+

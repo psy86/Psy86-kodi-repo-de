@@ -1,0 +1,196 @@
+﻿v 0.9.0.71
+- CoreElec Einstellungen ins Untermenü von SYSTEM aufgenommen
+
+v 0.9.0.70
+- Code aufgeräumt
+- Clear Cases überarbeitet, 4K hinzugefügt
+- Flagging Icons für die Ansichten "Banner" und "Media Info" überarbeitet, 4K hinzugefügt
+
+v 0.9.0.65
+- Bugfix Fritz Smart Home Addon (onclick)
+
+v 0.9.0.64
+- leichte Design Änderung im Bereich News und Dashboard
+- Code aufgeräumt
+
+v 0.9.0.62
+- Bugfix Serienplaner (Content wurde nicht angezeigt)
+
+v 0.9.0.61
+- Code aufgeräumt
+- Bugfix Serienplaner (ohne Addon, wird man immer nach der Installation gefragt)
+
+v 0.9.0.60
+- Hauptmenü: Widget für News, GTO überarbeitet. Widget konfiguration neu aufgebaut und verbessert
+- Hauptmenü: Widget für Dashboard erweitert. Video Addon Pfade können nun auch ausgewählt werden
+
+v 0.9.0.56
+- Bugfix: Musik-Widget (Sortierung)
+- Bugfix: View - Musik-Fanart Cover und Navigation
+
+v 0.9.0.54
+- Bugfix: Farbe in Dialogen
+- Bugfix: PVR Widget (Aufnahmen)
+
+v 0.9.0.53
+- Bugfix: Farbakzente
+
+v 0.9.0.52
+- Hintergrundfarbe bei Fensterwechsel geändert
+- Ansicht Showcase und Perspective optimiert
+
+v 0.9.0.51
+- Bugfix: Numerisches Keyboard
+
+v 0.9.0.50
+- Texte für Shutdownmenü angepasst/übersetzt
+- Bugfix: in User-Addon (onclick)
+
+v 0.9.0.43
+- einzelne Punkte im "Shutdown-Menü" ab-/zuschaltbar
+
+v 0.9.0.42
+- Bugfix: TV Widget Einstellungen
+- Android: Shutdownmenu - Neustart zu Nand hinzugefügt
+- Shutdownmenu Kodi-APP Neustart hinzugefügt
+
+v 0.9.0.40
+- [RC] aus dem Namen entfernt
+- im Shutdownmenu kann ein ReloadSkin() ausgelöst werden (muss in den SkinSettings aktiviert werden)
+- Bugfix: Mute Symbol auch bei passthru sichtbar
+- Bugfix: Videos laufen bei verlassen des Vollbildes flüssig weiter
+- Bugfix: SkinSettings - WOL Schalter
+- Bugfix: Sliderposition korrigiert (wieder mittig)
+- Bugfixes: für einige Texte
+
+v 0.9.0.34
+- Bugfix: Kanal OSD Label und Icons (danke Blaubär68)
+
+v 0.9.0.33
+- Bugfix: Player Titel
+
+v 0.9.0.32
+- Bugfix: Navigation in Untermenüs
+- Code für Poster einer Kollektion geändert (für Addon Movie Set Artwork)
+- Bugfix: Beschreibung für Hauptmenüpunkte
+
+v 0.9.0.31
+- Bugfix: View 3 Panel (2. Panel)
+
+v 0.9.0.30
+- Addon Abhängigkeiten integriert
+- WOL Schalter in den Skin-Einstellungen angepasst
+- neues Popup für WOL
+- Code aufgeräumt
+- License aktualisiert
+
+v 0.9.0.27
+- Bugfixes: im Code für PVR Window
+
+v 0.9.0.26
+- Extra Fanarts für Filme können separat deaktiviert werden
+
+v 0.9.0.25
+- Ansicht "Perspektive": Cover vergrößert
+- Focus im Hauptmenü korrigiert (Statussymbole am oberen Rand)
+- weitere Tests mit dem Script Skinhelper.PING
+- Code aufgeräumt
+
+v 0.9.0.24
+- Servericon in Skin integriert, Addon Skinhelper.Ping wird nun benötigt (noch nicht in der Repo)
+- kleine Wetterinfo wird nun standardmäßig im Home angezeigt (kann in den Skineinstellungen deaktiviert werden)
+- Nexttrack-Playlist wird nicht mehr im Dashboard angezeigt. Dashboard bleibt somit auch bei laufender Musik vollständig sichtbar
+
+v 0.9.0.23
+- Bugfix: Umschalttimer (unter Hauptmenüpunkt "News" und in "Zentrale")
+
+v 0.9.0.22
+- Bugfix: Untermenü IDs
+- Bugfix: Widget Popups
+- Bugfix: Umschalttimer
+- Bugfix: Fritz!Dect Watt und kWh Anzeige
+
+v 0.9.0.21
+- Bugfix: Einstellungsmenü des Scrappers nicht sichtbar
+
+v 0.9.0.20
+- beutzerdefinierbare Widgets erstellt
+- Hintergrund kann nun auch als "Multiimage" verwendet werden
+- Video und Movie Hintergründe können separat geändert werden
+- Bugfix: Widgets für Filme und Serien
+- Code aufgeräumt
+
+v 0.9.0.19
+- Bugfix: 3 Panel View - Episoden
+- Widgets für die CustomButtons 1-9 persönlich anpassbar
+- Hintergrund für die CustomButtons kann auf Multiimage umgestellt werden
+
+v 0.9.0.18
+- TV und Radio Widget wieder aktiviert
+- Bugfix: Visualisierung unter LibreELEC kein Hintergrundbild
+- Anzeige bei Zeitsprung in Videos hinzugefügt
+
+v 0.9.0.15
+- Änderung für Hauptmenüpunkt Disk wieder rückgängig gemacht
+- Hauptmenüpunkte 3D, HD, FullHD, Doku, Kids, Fav 1-4 durch Benutzderdefiniert 1-9 ersetzt (Playlisten, Nodes etc. kann nun der Nutzer selbst anlegen und verknüpfen)
+- Fitz!Dect Anzeige unter Dashboard nur bei aktivem Addon
+- AddonBrowser - Inhalt des Seitenpanels angepasst
+
+v 0.9.0.13
+- weiter Hauptmenüpunkte umgebaut (Serien, Musikvideo, Bilder, Disk)
+- Clearcases aus den Widgets entfernt
+- Bugfixes
+- Code aufgeräumt
+
+v 0.9.0.12
+- Umbau der Hauptmenüpunkte (eigene Inhalte könne festgelegt werden - Konfiguration über das Untermenü)
+- Widget für eigene Hauptmenüpunkte erstellt
+- Clearcases in Widgets entfernt
+- Untermenü bei eigenen Hauptmenüpunkten reduziert
+- neue Lautstärke Anzeige
+- einige, wenige neue Icons
+- Bugfixes
+- Code aufgeräumt
+
+v 0.9.0.11
+- texture.xbt nochmals neu gepackt
+
+v 0.9.0.9
+- texture.xbt neu gepackt
+- Bugfix: Videoinfo ("o")
+- Neu: FritzDect Addon ins Dashboard intergriert
+- Dashboard überarbeitet, Extendinfos überarbeitet (infos von rotten tomatoes deaktiviert)
+- Einstellungsmenü angepasst (Krypton)
+
+v 0.9.0.0
+- Widget: "im Gange" wird nun nicht mehr separat angezeigt, man wählt jetzt zwischen "Zufall", "zuletzt hinzugefügt" ODER "im Gange" (es werden jeweils 10 Objekte angezeigt)
+- Widget: neu für Videos (Playlisten, Quellen)
+- Hauptmenü: ONCLICK für Videos korrigiert, Abstände zwischen den Menüpunkten etwas verkleinert
+- Videovollbild: Seekbar kann temporär ausgeblendet werden (OSD), beim Neustart von Kodi wird sie wieder angezeigt
+- Game Controllers Dialog: Kopie aus Estuary an HorizonzV angepasst
+- Code Bugfixes
+
+v 0.0.0.2
+- Plot im Showcase View verbreitert, wenn ExtraArts deaktiviert sind
+- Position der Flaggs in den Viwes korrigiert
+- Anzeige für FSK Logos überarbeitet
+- Schreibfehler im Code ausfindig gemacht
+
+v 0.0.0.1
+- Umbau auf 1080p
+- Änderungen für Kodi 17 umgesetzt
+- System Einstellungen neues Design (Vorbild: Estuary)
+- neues Fenster: Textviewer (für Plot, News ...)
+- Icons aus Estuary übernommen und Grafisch etwas angepasst
+- Music Info überarbeitet (neuer Schalter - YouTube durchsuchen über Extended Script Info)
+- Video Info überarbeitet (neue Schlater - eigene Bewertung, Erweiterte Infos, Filme des Direktors)
+- einige Scrolldown/-up Einstellungen in Popups umgewandelt (SetBool)
+- neue Funktion "backgroundcolor" in Fenster eingebaut (wird von der gewählten Skinfarbe/-theme beeinflust)
+- Skinfarbe/-theme wirkt sich auf mehr Bereiche aus (Dialoge, Popups, Sidepanel, Hauptmenü, Listen, Hintergrundfarbe der Fenster)
+- Hauptmenü und Untermenü für News überarbeitet
+- Im Newsbereich können NewsCenter, SerienPlaner und das TV Highlights (GTO Addon) angezeigt werden. "Onclick" für News-Text eingebaut
+- einige Filmansichten überarbeitet (zB. Showcase)
+- alle Flaggs überarbeitet -> Grafische Flaggs entfernt und durch Text (mit Border) ersetzt. Verhindert fehlerhafte Anzeige und sieht einheitlicher aus
+- TV Highlights (GTO) aus TV-Widget entfernt
+- kleine Bugs gefixt (und hoffentlich keine Neuen eingebaut ;) )
+- Sprachdateien überarbeitet
